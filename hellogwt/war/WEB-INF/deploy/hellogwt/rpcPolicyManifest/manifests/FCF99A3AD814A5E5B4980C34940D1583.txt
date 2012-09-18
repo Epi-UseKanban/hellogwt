@@ -1,0 +1,2 @@
+serviceClass: hellogwt.hellogwt.hellogwt.client.GreetingService
+path: 6F7C34AA8B8C65541E1CD4F7C0DB4F33.gwt.rpc
